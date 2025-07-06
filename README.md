@@ -57,7 +57,7 @@ An advanced, full-stack **AI-powered Quiz App** built with the **MERN Stack** th
 ---
 ## 👤 Author
 
-Developed by [naitik90]https://github.com/naitik90
+Developed by [naitik90] https://github.com/naitik90
 All rights reserved © 2025
 
 Please contact for licensing or collaboration inquiries.
